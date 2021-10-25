@@ -33,6 +33,12 @@ int main()
       {
         cout<<"\nEnter your age: ";
         cin>> infoArr[i].age;
+//=====================================================================
+//
+// Use consts (5, 100)
+//
+// Deductions: -2
+//=====================================================================
       }while(infoArr[i].age<5 || infoArr[i].age > 100); //All inputs use input validation for the given ranges
 
       do

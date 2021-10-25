@@ -1,0 +1,53 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-input.txt == @@@@@@@@@@@@@@@
+
+
+---Now booting up Codemon Academy security system---
+
+Enter your first name: 
+Enter your last name: 
+Enter your age: 
+Enter your occupation: 
+Enter the number of Codemon you have: 
+
+Enter your first name: 
+Enter your last name: 
+Enter your age: 
+Enter your occupation: 
+Enter the number of Codemon you have: 
+
+Enter your first name: 
+Enter your last name: 
+Enter your age: 
+Enter your occupation: 
+Enter the number of Codemon you have: 
+
+Enter your first name: 
+Enter your last name: 
+Enter your age: 
+Enter your occupation: 
+Enter the number of Codemon you have: 
+
+Enter your first name: 
+Enter your last name: 
+Enter your age: 
+Enter your occupation: 
+Enter the number of Codemon you have: 
+
+The following entrants have been denied entry due to suspicions of Team Picket affiliations:
+
+Name: Bobson Dugnutt
+Age: 41
+Occupation: Student
+Number of Codemon: 1
+
+Name: Mike Truk
+Age: 38
+Occupation: Staff
+Number of Codemon: 11
+
+Are there more people waiting to enter the academy?
+
+
+Goodbye.
